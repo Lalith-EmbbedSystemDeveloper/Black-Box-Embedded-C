@@ -1,0 +1,24 @@
+# MPLAB X / generated build artifacts
+build/
+dist/
+nbproject/private/
+*.o
+*.elf
+*.hex
+*.hxl
+*.lst
+*.map
+*.cmf
+*.mum
+*.rlf
+*.sdb
+*.sym
+*.i
+*.p1
+*.d
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
